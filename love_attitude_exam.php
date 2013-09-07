@@ -1,5 +1,6 @@
 <html>
 <head>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
 <title>love attitude analysis</title>
 <script src="jquery-1.10.1.min.js"></script>
 <script src="love_attitude_exam.js"></script>

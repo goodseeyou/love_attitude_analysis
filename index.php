@@ -1,5 +1,8 @@
 <html>
-<head>Meet</head>
+<head>
+<title>Meet</title>
+<meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=big5">
+</head>
 <script src="jquery-1.10.1.min.js"></script>
 <body>
 <div class="exam"></div>
