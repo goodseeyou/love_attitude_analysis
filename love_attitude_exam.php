@@ -2,8 +2,8 @@
 <head>
 <title>love attitude analysis</title>
 <script src="jquery-1.10.1.min.js"></script>
-<script src="index.js"></script>
-<link type="text/css" rel="stylesheet" href="index.css"/>
+<script src="love_attitude_exam.js"></script>
+<link type="text/css" rel="stylesheet" href="love_attitude_exam.css"/>
 </head>
 <body>
 <div id="container">
